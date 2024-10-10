@@ -11,6 +11,6 @@ The project involves creating SQL queries to:
 
 ## Files in this Repository
 
-- **queries.sql**: Contains the SQL queries written for this project.
+- **SQL_QUERIES.sql**: Contains the SQL queries written for this project.
 - **problem-statement.pdf**: The problem statement file outlining the tasks and challenges to be solved using SQL.
 
